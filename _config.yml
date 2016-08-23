@@ -6,9 +6,9 @@ color:
   saturation: 0.5951019455678761
   rhythmicContrast: 0.6233107391744852
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 name: The Piscine Doctor
