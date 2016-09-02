@@ -1,16 +1,28 @@
+layout_spectrum: 0.8352021097671241
+description: 'throughout the Vendee, France'
+name: The Piscine Doctor
+title: Swimming pool care & maintenance
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0.6708041115198284
 color:
   brandStrength: 0.6027898159809411
-  lightness: 0.36569353472441435
-  saturation: 0.5951019455678761
-  rhythmicContrast: 0.6233107391744852
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 0
   brandColors:
     - '#FFFFFF'
     - '#CCCCCC'
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-layout_spectrum: 0.8352021097671241
-name: The Piscine Doctor
-title: Swimming pool care & maintenance
-description: 'throughout the Vendee, France'
